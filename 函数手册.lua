@@ -16,7 +16,7 @@ KnownSkip 		是否学习此法术检测：设定为true忽略检测，设定为f
         return;
     end
 	
-	--震荡波
+    --震荡波
     if castSpell("target",46968,false,false,true,false) then
         return;
     end

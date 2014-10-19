@@ -1,0 +1,11 @@
+﻿## Interface: 60000
+## Title: 神手1.01D
+## Title-zhCN:@|cff00ff00GodHand-1.00 by 玄月无尘
+## Version: 20141019-1.001
+## Notes: |cffbc8f8f神手核心库
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: GDConfig,GDScript,GDHelper
+## SavedVariablesPerCharacter:GDScriptPer,GDHelperPer
+GD.xml
+Class\Class.xml

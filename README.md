@@ -3,6 +3,7 @@
 一、施法类
 
 1、castSpell(Unit,SpellID,FacingCheck,MovementCheck,SpamAllowed,KnownSkip)
+
 参数：
 UnitID 			对象
 SpellID 		法术ID
